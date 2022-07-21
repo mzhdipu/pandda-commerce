@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.slider, .subcriber{
+    background-color: #FCEAE8;
+    border-radius: 10px;
+}
+.g-color-btn{
+    background-image: linear-gradient(#FF579A, #FF136F);
+    border: none;
+}
+.price, .c-price{
+    color: #FF579A;
+    font-weight: 600;
+}
+.c-price{
+    font-size: 22px;
+}
+.f-p {
+    background: #FFA500;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.card.border-0.shadow {
+    margin: 10px;
+}
+.subcriber{
+    height: 300px;
+}
